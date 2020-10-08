@@ -36,6 +36,9 @@ MEDV - Median value of owner-occupied homes in $1000's
 
 We as a team did data analysis , data cleaning, feature engineering , created visulizations and created ML models like - Linear Regression, Lasso, Ridge, Elastic net, Polynomial regression model to find the model with the highest accuracy and measured the accuracy through different paramters as MSE,RMSE etc.
 
+The data set for the same is uploaded as BOSTON.csv
+The Notebook for code is .
+
 Project Team Members:
 Neelima Saini -  Final Year MBA in Data Science at MIT ADT University, Institiute of Product Leadership .
 Supriya Patil -  Final Year MBA in Data science student at MIT Univeristy
