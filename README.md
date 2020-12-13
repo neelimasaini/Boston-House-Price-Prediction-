@@ -1,4 +1,4 @@
-# Boston-House-Price-Prediction-
+# Boston-House-Price-Prediction-Regressor-
 
 This project has been carried out in collaboration with Supriya Patil and Umesh Salunke.
 
